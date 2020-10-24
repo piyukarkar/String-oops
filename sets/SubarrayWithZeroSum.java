@@ -36,6 +36,3 @@ public class SubarrayWithZeroSum {
 	}
 
 }
-public class SubarrayWithZeroSum {
-    
-}
